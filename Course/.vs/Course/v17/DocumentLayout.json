@@ -1,9 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\C# Estudo\\Course\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\Csharp-projects\\Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF6FED74-C15C-4526-AD79-EDA6FB8A7FEB}|Course\\Course.csproj|c:\\users\\gabri\\onedrive\\documents\\gabriel\\c# estudo\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8DEDFFB-990C-4C29-B27F-CA9EE931FF75}|..\\Exercicies\\Exercicies.csproj|c:\\users\\gabri\\onedrive\\documents\\gabriel\\csharp-projects\\exercicies\\exercicie_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DEDFFB-990C-4C29-B27F-CA9EE931FF75}|..\\Exercicies\\Exercicies.csproj|c:\\users\\gabri\\onedrive\\documents\\gabriel\\csharp-projects\\exercicies\\exercicie_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DEDFFB-990C-4C29-B27F-CA9EE931FF75}|..\\Exercicies\\Exercicies.csproj|c:\\users\\gabri\\onedrive\\documents\\gabriel\\csharp-projects\\exercicies\\exercicie_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DEDFFB-990C-4C29-B27F-CA9EE931FF75}|..\\Exercicies\\Exercicies.csproj|c:\\users\\gabri\\onedrive\\documents\\gabriel\\csharp-projects\\exercicies\\exercicie_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DEDFFB-990C-4C29-B27F-CA9EE931FF75}|..\\Exercicies\\Exercicies.csproj|c:\\users\\gabri\\onedrive\\documents\\gabriel\\csharp-projects\\exercicies\\exercicie_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6FED74-C15C-4526-AD79-EDA6FB8A7FEB}|Course\\Course.csproj|c:\\users\\gabri\\onedrive\\documents\\gabriel\\csharp-projects\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF6FED74-C15C-4526-AD79-EDA6FB8A7FEB}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,19 +29,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\C# Estudo\\Course\\Course\\Program.cs",
-              "RelativeDocumentMoniker": "Course\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\C# Estudo\\Course\\Course\\Program.cs",
-              "RelativeToolTip": "Course\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "DocumentIndex": 1,
+              "Title": "Exercicie_1.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\Csharp-projects\\Exercicies\\Exercicie_1.cs",
+              "RelativeDocumentMoniker": "..\\Exercicies\\Exercicie_1.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\Csharp-projects\\Exercicies\\Exercicie_1.cs",
+              "RelativeToolTip": "..\\Exercicies\\Exercicie_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T04:30:30.274Z",
+              "WhenOpened": "2024-03-22T03:40:16.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercicie_2.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\Csharp-projects\\Exercicies\\Exercicie_2.cs",
+              "RelativeDocumentMoniker": "..\\Exercicies\\Exercicie_2.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\Csharp-projects\\Exercicies\\Exercicie_2.cs",
+              "RelativeToolTip": "..\\Exercicies\\Exercicie_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:40:14.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\Csharp-projects\\Course\\Course\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\Csharp-projects\\Course\\Course\\Program.cs",
+              "RelativeToolTip": "Course\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:29:37.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicie_6.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\Csharp-projects\\Exercicies\\Exercicie_6.cs",
+              "RelativeDocumentMoniker": "..\\Exercicies\\Exercicie_6.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\Csharp-projects\\Exercicies\\Exercicie_6.cs",
+              "RelativeToolTip": "..\\Exercicies\\Exercicie_6.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:05:48.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercicie_3.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\Csharp-projects\\Exercicies\\Exercicie_3.cs",
+              "RelativeDocumentMoniker": "..\\Exercicies\\Exercicie_3.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\Csharp-projects\\Exercicies\\Exercicie_3.cs",
+              "RelativeToolTip": "..\\Exercicies\\Exercicie_3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:05:20.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercicie_5.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\Csharp-projects\\Exercicies\\Exercicie_5.cs",
+              "RelativeDocumentMoniker": "..\\Exercicies\\Exercicie_5.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Gabriel\\Csharp-projects\\Exercicies\\Exercicie_5.cs",
+              "RelativeToolTip": "..\\Exercicies\\Exercicie_5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:40:10.915Z",
               "EditorCaption": ""
             }
           ]

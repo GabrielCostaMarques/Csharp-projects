@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\bin\Debug\net8.0\Exercicies.exe
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\bin\Debug\net8.0\Exercicies.deps.json
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\bin\Debug\net8.0\Exercicies.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\bin\Debug\net8.0\Exercicies.dll
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\bin\Debug\net8.0\Exercicies.pdb
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\obj\Debug\net8.0\Exercicies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\obj\Debug\net8.0\Exercicies.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\obj\Debug\net8.0\Exercicies.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\obj\Debug\net8.0\Exercicies.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\obj\Debug\net8.0\Exercicies.sourcelink.json
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\obj\Debug\net8.0\Exercicies.dll
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\obj\Debug\net8.0\refint\Exercicies.dll
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\obj\Debug\net8.0\Exercicies.pdb
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\obj\Debug\net8.0\Exercicies.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documents\Gabriel\Csharp-projects\Exercicies\obj\Debug\net8.0\ref\Exercicies.dll
